@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Lógica de Programação.canvas",
                 "viewState": {
-                  "x": 120.17223662746846,
-                  "y": 172.9543651664593,
-                  "zoom": -0.8763560782120885
+                  "x": 504.2836484279644,
+                  "y": -369.9432372790591,
+                  "zoom": -0.43817803910604414
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Lógica de Programação"
             }
           }
         ]
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Lógica de Programação.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Lógica de Programação"
             }
           }
         ],
@@ -174,11 +174,14 @@
   },
   "active": "3569bdf01561171e",
   "lastOpenFiles": [
+    "Programação.canvas",
+    "Lógica de Programação.canvas",
+    "Untitled.md",
+    "Default Obsidian Header Sizes.md",
     "O Ato de Programar.md",
     "Ordem Lógica.md",
     "Programação.md",
     "Tarefas para gerar um resultado.md",
-    "Untitled.canvas",
     "Fluxo de eventos.md",
     "Como Programar.md",
     "Programação/Apyr.md",
@@ -209,8 +212,6 @@
     "Manuais.md",
     "Gerenciamento e execução de processos.md",
     "Linux Shell Basics (BASH).md",
-    "Redirecionadores e Operadores.md",
-    "README.md",
     "Images",
     "Untitled 1.canvas"
   ]
