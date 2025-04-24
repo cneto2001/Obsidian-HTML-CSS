@@ -24,7 +24,7 @@
 		{"id":"053be53295b82e06","x":640,"y":360,"width":100,"height":60,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">IP</span>"},
 		{"id":"3546b098d327c037","x":820,"y":300,"width":260,"height":60,"type":"text","text":"<span style=\"font-size:24px;\">Internet Protocol</span>"},
 		{"id":"95c616bb06f3c864","x":820,"y":420,"width":250,"height":120,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Função:</span>\n\nEndereçamento Dos Computadores"},
-		{"id":"fa0ac991510c4d8e","x":-120,"y":240,"width":153,"height":60,"type":"text","text":"# Proxy"}
+		{"id":"fa0ac991510c4d8e","x":-180,"y":240,"width":360,"height":200,"type":"text","text":"# Proxy:\n- Qualquer dispositivo no caminho\n- Ex.: Modem, roteador, computador\n- **Função:** Encaminhamento dos pacotes"}
 	],
 	"edges":[
 		{"id":"897021cb45ba0fd7","fromNode":"7881960bca14a9c8","fromSide":"right","toNode":"186fdde51c874cf0","toSide":"left"},
