@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-End & Back-end.md",
+                "file": "HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Front-End & Back-end"
+              "title": "HTML"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-End & Back-end.md",
+                "file": "HTML.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Front-End & Back-end"
+              "title": "Outline of HTML"
             }
           }
         ],
@@ -172,9 +172,10 @@
   },
   "active": "ede452a2390a1d46",
   "lastOpenFiles": [
+    "Front-End & Back-end.md",
+    "HTML.md",
     "Pasted image 20250424151455.png",
     "Default Obsidian Header Sizes.md",
-    "Front-End & Back-end.md",
     "Pasted image 20250424151151.png",
     "Web.canvas",
     "Programação.canvas",
@@ -204,7 +205,6 @@
     "Images/Pasted image 20250324103127.png",
     "Images/Pasted image 20250324103001.png",
     "Images/Pasted image 20250324102947.png",
-    "Images/Pasted image 20250324100816.png",
     "Log Management.md",
     "Comandos Variados.md",
     "Environment Variables.md",
