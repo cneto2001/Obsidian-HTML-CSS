@@ -1,17 +1,21 @@
 {
 	"nodes":[
-		{"id":"5f9af6e155c94d2b","x":-526,"y":-800,"width":412,"height":60,"type":"text","text":"# ~={orange}Uma Maneira de Pensar=~"},
-		{"id":"0faf60e7ed02eb65","x":-270,"y":-1052,"width":420,"height":60,"type":"text","text":"# Programação Declarativa"},
-		{"id":"840b9f66672c63d7","x":-790,"y":-1052,"width":420,"height":60,"type":"text","text":"# Programação Imperativa\n"},
+		{"id":"5f9af6e155c94d2b","type":"text","text":"# ~={orange}Uma Maneira de Pensar=~","x":-526,"y":-800,"width":412,"height":60},
+		{"id":"0faf60e7ed02eb65","type":"text","text":"# Programação Declarativa","x":-270,"y":-1052,"width":420,"height":60},
+		{"id":"840b9f66672c63d7","type":"text","text":"# Programação Imperativa\n","x":-790,"y":-1052,"width":420,"height":60},
 		{"id":"86c26a1eb22d9dce","type":"text","text":"<span style=\"font-size:40px;color:cyan;\">Lógica de Programação</span>","x":-580,"y":-520,"width":520,"height":100},
-		{"id":"d410034658766b9b","x":-712,"y":-1300,"width":265,"height":60,"type":"text","text":"# Passo a Passo"},
-		{"id":"bc4d4241a620cb88","x":-1180,"y":-1400,"width":320,"height":160,"type":"text","text":"# Descreve, de Forma Específica, Como Realizar os Passos"},
-		{"id":"088a2a9b65c01a95","x":-210,"y":-1344,"width":230,"height":104,"type":"text","text":"# Conjunto de Regras"},
-		{"id":"d31c106e8947e5fe","x":180,"y":-1300,"width":250,"height":60,"type":"text","text":"# O Que Fazer"},
-		{"id":"c7769f7d785757ff","x":66,"y":-520,"width":364,"height":100,"type":"text","text":"# ~={orange}Como o Computador Entende=~"},
-		{"id":"18d06e1a71550b50","x":586,"y":-420,"width":534,"height":180,"type":"text","text":"# O Programador Entende o Problema e Entrega as Instruções Para o Computador, Através da Linguagem de Programação"},
-		{"id":"73b9d3f4f7d58ccb","x":586,"y":-605,"width":344,"height":85,"type":"text","text":"# Recebe e Processa Ordens"},
-		{"id":"0d3fcec487266734","x":-489,"y":-20,"width":338,"height":50,"type":"text","text":"# ~={orange}Entregar Instruções=~"}
+		{"id":"d410034658766b9b","type":"text","text":"# Passo a Passo","x":-712,"y":-1300,"width":265,"height":60},
+		{"id":"bc4d4241a620cb88","type":"text","text":"# Descreve, de Forma Específica, Como Realizar os Passos","x":-1180,"y":-1400,"width":320,"height":160},
+		{"id":"088a2a9b65c01a95","type":"text","text":"# Conjunto de Regras","x":-210,"y":-1344,"width":230,"height":104},
+		{"id":"d31c106e8947e5fe","type":"text","text":"# O Que Fazer","x":180,"y":-1300,"width":250,"height":60},
+		{"id":"c7769f7d785757ff","type":"text","text":"# ~={orange}Como o Computador Entende=~","x":66,"y":-520,"width":364,"height":100},
+		{"id":"18d06e1a71550b50","type":"text","text":"# O Programador Entende o Problema e Entrega as Instruções Para o Computador, Através da Linguagem de Programação","x":586,"y":-420,"width":534,"height":180},
+		{"id":"73b9d3f4f7d58ccb","type":"text","text":"# Recebe e Processa Ordens","x":586,"y":-605,"width":344,"height":85},
+		{"id":"0d3fcec487266734","type":"text","text":"# ~={orange}Entregar Instruções=~","x":-489,"y":-20,"width":338,"height":50},
+		{"id":"a3ef5ae51461e849","type":"text","text":"# ~={cyan}Dados=~","x":-1129,"y":-20,"width":158,"height":50},
+		{"id":"0358bc57b5f44ace","type":"text","text":"# String","x":-1128,"y":160,"width":156,"height":50},
+		{"id":"3253510a9386fa4c","type":"text","text":"# Boolean","x":-890,"y":160,"width":178,"height":50},
+		{"id":"86e105e446f74990","type":"text","text":"# Number","x":-1378,"y":160,"width":174,"height":50}
 	],
 	"edges":[
 		{"id":"c18b76b7eac05fbc","fromNode":"86c26a1eb22d9dce","fromSide":"top","toNode":"5f9af6e155c94d2b","toSide":"bottom"},
@@ -25,6 +29,10 @@
 		{"id":"4e3520d54f1756d3","fromNode":"c7769f7d785757ff","fromSide":"right","toNode":"73b9d3f4f7d58ccb","toSide":"left"},
 		{"id":"5026ac547c7b0823","fromNode":"c7769f7d785757ff","fromSide":"right","toNode":"18d06e1a71550b50","toSide":"left"},
 		{"id":"26794037f1d86b23","fromNode":"86c26a1eb22d9dce","fromSide":"bottom","toNode":"0d3fcec487266734","toSide":"top"},
-		{"id":"7a304d056220263a","fromNode":"86c26a1eb22d9dce","fromSide":"right","toNode":"c7769f7d785757ff","toSide":"left"}
+		{"id":"7a304d056220263a","fromNode":"86c26a1eb22d9dce","fromSide":"right","toNode":"c7769f7d785757ff","toSide":"left"},
+		{"id":"96888710947c59fc","fromNode":"a3ef5ae51461e849","fromSide":"bottom","toNode":"0358bc57b5f44ace","toSide":"top"},
+		{"id":"bc537df456348402","fromNode":"a3ef5ae51461e849","fromSide":"bottom","toNode":"3253510a9386fa4c","toSide":"top"},
+		{"id":"bc397c5276a9f356","fromNode":"a3ef5ae51461e849","fromSide":"bottom","toNode":"86e105e446f74990","toSide":"top"},
+		{"id":"fab664cb0bc63999","fromNode":"0d3fcec487266734","fromSide":"left","toNode":"a3ef5ae51461e849","toSide":"right"}
 	]
 }

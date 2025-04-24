@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "00c9de90ecc16f83",
+        "id": "5f2232ba4753afb7",
         "type": "tabs",
         "children": [
           {
-            "id": "3569bdf01561171e",
+            "id": "ede452a2390a1d46",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Lógica de Programação.canvas",
+                "file": "Web.canvas",
                 "viewState": {
-                  "x": 94.75550371432985,
-                  "y": -658.2032154600738,
-                  "zoom": -0.8625115531984925
+                  "x": 221.775634765625,
+                  "y": -101.6085205078125,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Lógica de Programação"
+              "title": "Web"
             }
           }
         ]
@@ -145,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lógica de Programação.canvas",
+                "file": "Web.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lógica de Programação"
+              "title": "Outline of Web"
             }
           }
         ],
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3569bdf01561171e",
+  "active": "ede452a2390a1d46",
   "lastOpenFiles": [
-    "Default Obsidian Header Sizes.md",
-    "Lógica de Programação.canvas",
-    "Programação.canvas",
+    "Web.canvas",
     "Untitled.md",
+    "Lógica de Programação.canvas",
+    "Default Obsidian Header Sizes.md",
+    "Programação.canvas",
     "O Ato de Programar.md",
     "Ordem Lógica.md",
     "Programação.md",
