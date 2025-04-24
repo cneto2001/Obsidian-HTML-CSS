@@ -11,17 +11,14 @@
             "id": "ede452a2390a1d46",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Web.canvas",
-                "viewState": {
-                  "x": -787.0087163883715,
-                  "y": -210.022952306595,
-                  "zoom": 0.1236439217879115
-                }
+                "file": "Front-End & Back-end.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Web"
+              "icon": "lucide-file",
+              "title": "Front-End & Back-end"
             }
           }
         ]
@@ -145,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web.canvas",
+                "file": "Front-End & Back-end.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Web"
+              "title": "Outline of Front-End & Back-end"
             }
           }
         ],
@@ -175,11 +172,13 @@
   },
   "active": "ede452a2390a1d46",
   "lastOpenFiles": [
-    "Programação.canvas",
-    "Web.canvas",
-    "Lógica de Programação.canvas",
+    "Pasted image 20250424151455.png",
     "Default Obsidian Header Sizes.md",
-    "Untitled.md",
+    "Front-End & Back-end.md",
+    "Pasted image 20250424151151.png",
+    "Web.canvas",
+    "Programação.canvas",
+    "Lógica de Programação.canvas",
     "O Ato de Programar.md",
     "Ordem Lógica.md",
     "Programação.md",
@@ -206,7 +205,6 @@
     "Images/Pasted image 20250324103001.png",
     "Images/Pasted image 20250324102947.png",
     "Images/Pasted image 20250324100816.png",
-    "Images/Pasted image 20250324092259.png",
     "Log Management.md",
     "Comandos Variados.md",
     "Environment Variables.md",

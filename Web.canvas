@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"0895b118d8e9154f","x":-1800,"y":-1130,"width":3005,"height":1690,"type":"group","label":"Web"},
 		{"id":"c62ebf36a42476a8","type":"text","text":"<span style=\"font-size:40px;color:cyan;\">Web</span>","x":-120,"y":-220,"width":153,"height":80},
 		{"id":"7881960bca14a9c8","type":"text","text":"# HTTP","x":300,"y":-590,"width":140,"height":60},
 		{"id":"186fdde51c874cf0","type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Hypertext Transfer Protocol</span>","x":520,"y":-720,"width":400,"height":60},
@@ -26,7 +27,9 @@
 		{"id":"95c616bb06f3c864","x":820,"y":420,"width":250,"height":120,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Função:</span>\n\nEndereçamento Dos Computadores"},
 		{"id":"fa0ac991510c4d8e","x":-223,"y":290,"width":360,"height":200,"type":"text","text":"# Proxy:\n- Qualquer dispositivo no caminho\n- Ex.: Modem, roteador, computador\n- **Função:** Encaminhamento dos pacotes"},
 		{"id":"9f195bb2c4fa6d4d","x":-764,"y":-205,"width":467,"height":50,"type":"text","text":"# Pedido Recebido Pelo Server"},
-		{"id":"ca808dac6fccf46e","x":-1302,"y":-205,"width":302,"height":50,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Resposta do Server</span>"}
+		{"id":"ca808dac6fccf46e","x":-1302,"y":-205,"width":302,"height":50,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Resposta do Server</span>"},
+		{"id":"984458146563bdc0","x":-1780,"y":-245,"width":260,"height":130,"type":"text","text":"<span style=\"font-size:24px;\">Browser</span>\n- Monta a tela do site"},
+		{"id":"780764b069a764ca","x":1320,"y":-365,"width":560,"height":160,"color":"6","type":"text","text":"# Processo Realizado Várias Vezes\n\n<span style=\"font-size:24px;\">Isso ocorre pois, para cada recurso(html, css, JS, img, ...), é feita uma nova conexão</span>\n"}
 	],
 	"edges":[
 		{"id":"897021cb45ba0fd7","fromNode":"7881960bca14a9c8","fromSide":"right","toNode":"186fdde51c874cf0","toSide":"left"},
@@ -54,6 +57,8 @@
 		{"id":"a89b2b5cf55889f1","fromNode":"c62ebf36a42476a8","fromSide":"bottom","toNode":"fa0ac991510c4d8e","toSide":"top","color":"5"},
 		{"id":"20a2a64dc51d8237","fromNode":"c4487c3eaba0481d","fromSide":"bottom","toNode":"053be53295b82e06","toSide":"left"},
 		{"id":"a7f8936f2de1da18","fromNode":"c62ebf36a42476a8","fromSide":"left","toNode":"9f195bb2c4fa6d4d","toSide":"right","color":"5"},
-		{"id":"652c70fba51c8099","fromNode":"9f195bb2c4fa6d4d","fromSide":"left","toNode":"ca808dac6fccf46e","toSide":"right","label":"Análise"}
+		{"id":"652c70fba51c8099","fromNode":"9f195bb2c4fa6d4d","fromSide":"left","toNode":"ca808dac6fccf46e","toSide":"right","label":"Análise"},
+		{"id":"62bc01bdf4c5336b","fromNode":"ca808dac6fccf46e","fromSide":"left","toNode":"984458146563bdc0","toSide":"right","label":"Positiva"},
+		{"id":"e92797a64b3853b9","fromNode":"0895b118d8e9154f","fromSide":"right","toNode":"780764b069a764ca","toSide":"left","color":"6"}
 	]
 }
