@@ -11,14 +11,17 @@
             "id": "ede452a2390a1d46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "HTML.md",
-                "mode": "source",
-                "source": false
+                "file": "Web.canvas",
+                "viewState": {
+                  "x": 158.05380365122943,
+                  "y": -303.4458714913633,
+                  "zoom": -0.7517865981413127
+                }
               },
-              "icon": "lucide-file",
-              "title": "HTML"
+              "icon": "lucide-layout-dashboard",
+              "title": "Web"
             }
           }
         ]
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTML.md",
+                "file": "Web.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HTML"
+              "title": "Outline of Web"
             }
           }
         ],
@@ -172,14 +175,14 @@
   },
   "active": "ede452a2390a1d46",
   "lastOpenFiles": [
-    "Front-End & Back-end.md",
-    "HTML.md",
+    "Programação.canvas",
     "Pasted image 20250424151455.png",
+    "Web.canvas",
+    "Front-End & Back-end.md",
+    "Lógica de Programação.canvas",
+    "HTML.md",
     "Default Obsidian Header Sizes.md",
     "Pasted image 20250424151151.png",
-    "Web.canvas",
-    "Programação.canvas",
-    "Lógica de Programação.canvas",
     "O Ato de Programar.md",
     "Ordem Lógica.md",
     "Programação.md",
@@ -211,7 +214,6 @@
     "Package Managers.md",
     "Manuais.md",
     "Gerenciamento e execução de processos.md",
-    "Linux Shell Basics (BASH).md",
     "Images",
     "Untitled 1.canvas"
   ]
