@@ -1,7 +1,20 @@
 {
 	"nodes":[
 		{"id":"c62ebf36a42476a8","type":"text","text":"<span style=\"font-size:40px;color:cyan;\">Web</span>","x":-120,"y":-220,"width":153,"height":80},
-		{"id":"7881960bca14a9c8","x":240,"y":-210,"width":250,"height":60,"type":"text","text":""}
+		{"id":"7881960bca14a9c8","type":"text","text":"# HTTP","x":120,"y":-210,"width":140,"height":60},
+		{"id":"186fdde51c874cf0","type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Hypertext Transfer Protocol</span>","x":340,"y":-340,"width":400,"height":60},
+		{"id":"29a0790bd19d6c53","type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Função:</span>\n<span style=\"font-size:18px;\">Trocar Mensagens Entre Computadores</span>","x":340,"y":-235,"width":250,"height":110},
+		{"id":"372e7084a119897e","x":340,"y":-80,"width":200,"height":60,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Mensagem</span>"},
+		{"id":"94438c3377a8a02a","x":720,"y":-80,"width":160,"height":60,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Chunks</span>"},
+		{"id":"803b739e660b0870","x":120,"y":100,"width":120,"height":60,"type":"text","text":"# URL"},
+		{"id":"c9a1c728287eb2ea","x":340,"y":105,"width":360,"height":155,"type":"text","text":"<span style=\"font-size:24px;\">Uniform Resource Locator:</span>\n\nResource: Website"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"6255b3d3aa909191","fromNode":"c62ebf36a42476a8","fromSide":"right","toNode":"7881960bca14a9c8","toSide":"left"},
+		{"id":"897021cb45ba0fd7","fromNode":"7881960bca14a9c8","fromSide":"right","toNode":"186fdde51c874cf0","toSide":"left"},
+		{"id":"847f753dc7f54cd9","fromNode":"7881960bca14a9c8","fromSide":"right","toNode":"29a0790bd19d6c53","toSide":"left"},
+		{"id":"7a7a04ea4f7cbb08","fromNode":"372e7084a119897e","fromSide":"right","toNode":"94438c3377a8a02a","toSide":"left","label":"Broken In"},
+		{"id":"f9a8ae87030963bc","fromNode":"7881960bca14a9c8","fromSide":"right","toNode":"372e7084a119897e","toSide":"left"},
+		{"id":"23d75de3e64946a6","fromNode":"803b739e660b0870","fromSide":"right","toNode":"c9a1c728287eb2ea","toSide":"left"}
+	]
 }
