@@ -5,7 +5,7 @@
 		{"id":"840b9f66672c63d7","type":"text","text":"# Programação Imperativa\n","x":-790,"y":-1052,"width":420,"height":60},
 		{"id":"86c26a1eb22d9dce","type":"text","text":"<span style=\"font-size:40px;color:cyan;\">Lógica de Programação</span>","x":-580,"y":-520,"width":520,"height":100},
 		{"id":"d410034658766b9b","type":"text","text":"# Passo a Passo","x":-712,"y":-1300,"width":265,"height":60},
-		{"id":"bc4d4241a620cb88","type":"text","text":"# Descreve, de Forma Específica, Como Realizar os Passos","x":-1180,"y":-1400,"width":320,"height":160},
+		{"id":"bc4d4241a620cb88","type":"text","text":"# Descreve, de Forma Específica, Como Realizar os Passos","x":-1180,"y":-1400,"width":320,"height":180},
 		{"id":"088a2a9b65c01a95","type":"text","text":"# Conjunto de Regras","x":-210,"y":-1344,"width":230,"height":104},
 		{"id":"d31c106e8947e5fe","type":"text","text":"# O Que Fazer","x":180,"y":-1300,"width":250,"height":60},
 		{"id":"c7769f7d785757ff","type":"text","text":"# ~={orange}Como o Computador Entende=~","x":66,"y":-520,"width":364,"height":100},
