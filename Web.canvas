@@ -24,7 +24,9 @@
 		{"id":"053be53295b82e06","x":640,"y":360,"width":100,"height":60,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">IP</span>"},
 		{"id":"3546b098d327c037","x":820,"y":300,"width":260,"height":60,"type":"text","text":"<span style=\"font-size:24px;\">Internet Protocol</span>"},
 		{"id":"95c616bb06f3c864","x":820,"y":420,"width":250,"height":120,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Função:</span>\n\nEndereçamento Dos Computadores"},
-		{"id":"fa0ac991510c4d8e","x":-180,"y":240,"width":360,"height":200,"type":"text","text":"# Proxy:\n- Qualquer dispositivo no caminho\n- Ex.: Modem, roteador, computador\n- **Função:** Encaminhamento dos pacotes"}
+		{"id":"fa0ac991510c4d8e","x":-223,"y":290,"width":360,"height":200,"type":"text","text":"# Proxy:\n- Qualquer dispositivo no caminho\n- Ex.: Modem, roteador, computador\n- **Função:** Encaminhamento dos pacotes"},
+		{"id":"9f195bb2c4fa6d4d","x":-764,"y":-205,"width":467,"height":50,"type":"text","text":"# Pedido Recebido Pelo Server"},
+		{"id":"ca808dac6fccf46e","x":-1302,"y":-205,"width":302,"height":50,"type":"text","text":"<span style=\"font-size:24px;font-weight:bold;\">Resposta do Server</span>"}
 	],
 	"edges":[
 		{"id":"897021cb45ba0fd7","fromNode":"7881960bca14a9c8","fromSide":"right","toNode":"186fdde51c874cf0","toSide":"left"},
@@ -49,6 +51,9 @@
 		{"id":"4e27b6d4ae0b0e03","fromNode":"b949eac3ba33f7cc","fromSide":"right","toNode":"30e26ba0150a3a4d","toSide":"left"},
 		{"id":"69a3e86553c6f7b5","fromNode":"053be53295b82e06","fromSide":"right","toNode":"3546b098d327c037","toSide":"left"},
 		{"id":"f50d04f82900d9c3","fromNode":"053be53295b82e06","fromSide":"right","toNode":"95c616bb06f3c864","toSide":"left"},
-		{"id":"a89b2b5cf55889f1","fromNode":"c62ebf36a42476a8","fromSide":"bottom","toNode":"fa0ac991510c4d8e","toSide":"top","color":"5"}
+		{"id":"a89b2b5cf55889f1","fromNode":"c62ebf36a42476a8","fromSide":"bottom","toNode":"fa0ac991510c4d8e","toSide":"top","color":"5"},
+		{"id":"20a2a64dc51d8237","fromNode":"c4487c3eaba0481d","fromSide":"bottom","toNode":"053be53295b82e06","toSide":"left"},
+		{"id":"a7f8936f2de1da18","fromNode":"c62ebf36a42476a8","fromSide":"left","toNode":"9f195bb2c4fa6d4d","toSide":"right","color":"5"},
+		{"id":"652c70fba51c8099","fromNode":"9f195bb2c4fa6d4d","fromSide":"left","toNode":"ca808dac6fccf46e","toSide":"right","label":"Análise"}
 	]
 }
