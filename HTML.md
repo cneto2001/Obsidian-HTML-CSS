@@ -6,8 +6,9 @@
 ```
 
 ```HTML
-<!--Aplica o style a todas as tags <p></p> -->
-<!-- -->
+<!-- Aplica o style a todas as tags <p></p> -->
+<!-- #a Aplica somente ao que possui "a" como id. Sobrepõe a mudança feita-->
+<!-- no código realizado abaixo-->
 <style>
 	#a {
 		color: red;

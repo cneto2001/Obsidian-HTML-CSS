@@ -11,17 +11,14 @@
             "id": "ede452a2390a1d46",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Web.canvas",
-                "viewState": {
-                  "x": 158.05380365122943,
-                  "y": -303.4458714913633,
-                  "zoom": -0.7517865981413127
-                }
+                "file": "HTML.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Web"
+              "icon": "lucide-file",
+              "title": "HTML"
             }
           }
         ]
@@ -175,13 +172,13 @@
   },
   "active": "ede452a2390a1d46",
   "lastOpenFiles": [
-    "Programação.canvas",
-    "Pasted image 20250424151455.png",
-    "Web.canvas",
-    "Front-End & Back-end.md",
     "Lógica de Programação.canvas",
     "HTML.md",
+    "Front-End & Back-end.md",
     "Default Obsidian Header Sizes.md",
+    "Pasted image 20250424151455.png",
+    "Web.canvas",
+    "Programação.canvas",
     "Pasted image 20250424151151.png",
     "O Ato de Programar.md",
     "Ordem Lógica.md",
