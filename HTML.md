@@ -37,4 +37,15 @@
 <a>
  	target="_blank"
 </a>
+
+<ol></ol> <!--Ordered List, i.e. -->
+<!--1. -->
+<!--2. -->
+<!--3. -->
+<!--   -->
+<ul></ul> <!--Unordered List -->
+<nav></nav> <!--Tag semântica ==> contém uma lista -->
 ```
+
+**section** ==> Utilizado para agrupar textos.
+Boa prática: Usar h2 em sections.
