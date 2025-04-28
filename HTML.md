@@ -28,3 +28,13 @@
 	CSS eh Estilo
 </p>
 ```
+
+&nbsp
+</br> ==> Line Break
+
+```HTML
+<!--Abrir Nova Aba ao Clicar no link --> 
+<a>
+ 	target="_blank"
+</a>
+```
